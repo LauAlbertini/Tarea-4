@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(98, 98, 167);
+}
+
+.div-1{
+width: 50%;
+margin: 0;font-weight: bold;
+font-size: 25px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: cornsilk;
+text-transform: uppercase;
+background-color: rgb(red, green, blue);
+padding: 5%;
+
+}
+
+.div-2{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    color: silver;
+    background-color: rgb(70, 136, 103);
+    padding: 5%;
+}
+
+.div-3{
+    width: 50%;
+    margin: 0 auto;
+    padding: 0 auto;
+    border: 3px solid rgb(red, green, blue);
+    text-align: center;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    color: rosybrown;
+    text-transform: uppercase;
+    background-color: skyblue;
+    margin-top: 40px;
+}
